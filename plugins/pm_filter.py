@@ -656,6 +656,7 @@ async def auto_filter(client, msg, spoll=False):
             plot = imdb['plot'],
             rating = imdb['rating'],
             url = imdb['url']
+            Developer: [' @Arjunbots - 🔰Join @squid_game_full_eps ']
         )
     else:
         cap = f"Here is what i found for your query {search}"
